@@ -29,7 +29,7 @@ bots, utilidades, web, servidores de juegos e infraestructura propia.
 | **[Synthia](https://synthia.codeizanami.es)** | 🤖 Discord | Bot de música |
 | **Overwatch** | 🤖 Discord | Moderación y vigilancia del servidor |
 | **Vigil** | 🤖 Discord | Bot de utilidades |
-| **Protector** | 🤖 Discord | Discord AntiRaid-AntiSpam |
+| **Hawkeye** | 🤖 Discord | AntiRaid-AntiSpam |
 | **Honeypot** | 🤖 Discord | Bot trampa anti-spam |
 | **codeOS** | 🪟 Windows | Utilidad de sistema |
 | **codeUtils** | 🪟 Windows | Colección de herramientas |
@@ -45,12 +45,11 @@ bots, utilidades, web, servidores de juegos e infraestructura propia.
 ### `> stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codeizanami&show_icons=true&hide_border=true&bg_color=09090b&title_color=00d4ff&icon_color=5865f2&text_color=e4e4e7&ring_color=5865f2&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeizanami&layout=compact&hide_border=true&bg_color=09090b&title_color=00d4ff&text_color=e4e4e7&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=codeizanami&locale=es&hide_border=true&background=09090b&ring=5865f2&fire=00d4ff&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=e4e4e7&sideLabels=a1a1aa&dates=71717a&stroke=27272a" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeizanami&bg_color=09090b&color=e4e4e7&line=5865f2&point=00d4ff&area=true&area_color=5865f2&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/codeizanami/codeizanami/output/snake.svg" alt="snake" />
 </p>
 
 <p align="center">
