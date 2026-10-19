@@ -29,7 +29,7 @@ bots, utilidades, web, servidores de juegos e infraestructura propia.
 | **[Synthia](https://synthia.codeizanami.es)** | 🤖 Discord | Bot de música |
 | **Overwatch** | 🤖 Discord | Moderación y vigilancia del servidor |
 | **Vigil** | 🤖 Discord | Bot de utilidades |
-| **Hawkeye** | 🤖 Discord | AntiRaid-AntiSpam |
+| **Protector** | 🤖 Discord | AntiRaid-AntiSpam |
 | **Honeypot** | 🤖 Discord | Bot trampa anti-spam |
 | **codeOS** | 🪟 Windows | Utilidad de sistema |
 | **codeUtils** | 🪟 Windows | Colección de herramientas |
