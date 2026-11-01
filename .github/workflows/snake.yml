@@ -1,26 +1,20 @@
-name: Generar serpiente
-
+name: snake
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
-
-permissions:
-  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=00d4ff&color_dots=161b22,1e1f4a,343a9e,4a54d4,5865f2
-
+            dist/snake.svg?palette=github-dark&color_snake=00d4ff
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
