@@ -29,7 +29,7 @@ servidores de juegos e infraestructura propia).
 |---|---|---|
 | **[Synthia](https://synthia.codeizanami.es)** | 🤖 Discord | Bot de música |
 | **Overwatch** | 🤖 Discord | Moderación y vigilancia del servidor |
-| **[Vigil](https://dashboard.codeizanami.es)** | 🤖 Discord | Moderación y utilidad, con panel web |
+| **[Vigil](https://vigil.codeizanami.es)** | 🤖 Discord | Moderación y utilidad, con panel web |
 | **[Protector](https://dashprotector.codeizanami.es)** | 🤖 Discord | Seguridad: antinuke, antiraid y logs |
 | **[Honeypot](https://honeypot.codeizanami.es)** | 🤖 Discord | Bot trampa anti-spam |
 | **[codeOS](https://codeos.codeizanami.es)** | 🪟 Windows | Windows 10 Pro optimizado, sin bloatware |
